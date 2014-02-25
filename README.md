@@ -1,3 +1,7 @@
+To try working demo:
+clone the directory and run python -m SimpleHTTPServer
+then point your browser to http://localhost:8000/
+
 API Documentation
 
 This API would be read-only thus would be limited to only get HTTP Requests.
